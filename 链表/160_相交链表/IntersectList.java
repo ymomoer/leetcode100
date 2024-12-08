@@ -22,6 +22,7 @@ public class IntersectList {
        }
        return pA;
     }
+    
 
     public static void main(String[] args) {
         // 创建链表A: 1 -> 2 -> 3
