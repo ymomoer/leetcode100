@@ -24,7 +24,6 @@ class sortedSquares2{
 
     public static void main(String[] args) {
         sortedSquares2 solution = new sortedSquares2();
-        
         int[] nums={-7,-3,2,3,11};
         int[] result1 = solution.sortedSquares(nums);
         System.out.println("Output: "+Arrays.toString(result1));
