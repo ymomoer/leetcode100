@@ -42,8 +42,7 @@ public class removeElements1{
         return dummy.next;
     }
     
-    private static void printList(ListNode head) {
-        
+    private static void printList(ListNode head) { 
         ListNode current = head;
         while (current != null) {
             System.out.print(current.val + (current.next != null ? " -> " : ""));
