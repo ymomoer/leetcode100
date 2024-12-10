@@ -41,6 +41,7 @@ public class reverseList1 {
     }
 
     public static void printList(ListNode head){
+        
         ListNode curr = head;
         while (curr!=null) {
             System.out.print(curr.val+" ");
