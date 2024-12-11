@@ -6,6 +6,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "isAnagram1",
+            "request": "launch",
+            "mainClass": "isAnagram1",
+            "projectName": "leetcode100_1627bdf9",
+            "cwd": "D:/Programfiles/leetcode100/bin"
+        },
+        {
+            "type": "java",
             "name": "removeElements1",
             "request": "launch",
             "mainClass": "removeElements1",
@@ -23,7 +31,8 @@
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "projectName": "leetcode100"
+            "projectName": "leetcode100",
+            "cwd": "D:/Programfiles/leetcode100/bin"
         }
     ]
 }
