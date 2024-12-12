@@ -6,11 +6,40 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
+            "name": "generateMatrix1",
+            "request": "launch",
+            "mainClass": "generateMatrix1",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
+            "name": "removeElementSolution",
+            "request": "launch",
+            "mainClass": "removeElementSolution",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
+            "name": "intersection1",
+            "request": "launch",
+            "mainClass": "intersection1",
+            "projectName": "leetcode100_1627bdf9",
+            "cwd": "D:/Programfiles/leetcode100"
+        },
+        {
+            "type": "java",
             "name": "isAnagram1",
             "request": "launch",
             "mainClass": "isAnagram1",
             "projectName": "leetcode100_1627bdf9",
-            "cwd": "D:/Programfiles/leetcode100/bin"
+            "cwd": "D:/Programfiles/leetcode100"
         },
         {
             "type": "java",
@@ -28,11 +57,11 @@
         },
         {
             "type": "java",
-            "name": "Current File",
+            "name": "java Debug",
             "request": "launch",
             "mainClass": "${file}",
             "projectName": "leetcode100",
-            "cwd": "D:/Programfiles/leetcode100/bin"
+            "cwd": "D:/Programfiles/leetcode100"
         }
     ]
 }
