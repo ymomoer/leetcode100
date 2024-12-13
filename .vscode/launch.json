@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "isHappy1",
+            "request": "launch",
+            "mainClass": "isHappy1",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "BinarySearch",
