@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "canConstruct1",
+            "request": "launch",
+            "mainClass": "canConstruct1",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "fourSumCount1",
             "request": "launch",
             "mainClass": "fourSumCount1",
