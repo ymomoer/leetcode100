@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "repeatedSubstringPatter2",
+            "request": "launch",
+            "mainClass": "repeatedSubstringPatter2",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "strStr1",
             "request": "launch",
             "mainClass": "strStr1",
