@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "preorderTraversal1",
+            "request": "launch",
+            "mainClass": "二叉树.前序遍历.preorderTraversal1",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "topKFrequent1",
             "request": "launch",
             "mainClass": "topKFrequent1",
