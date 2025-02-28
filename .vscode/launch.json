@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inorderTraversal2",
+            "request": "launch",
+            "mainClass": "二叉树.中序遍历.inorderTraversal2",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "postTraversal2",
             "request": "launch",
             "mainClass": "二叉树.后序遍历.postTraversal2",
