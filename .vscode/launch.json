@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "levelOrder2",
+            "request": "launch",
+            "mainClass": "levelOrder2",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "levelOrder1",
             "request": "launch",
             "mainClass": "二叉树.层序遍历.levelOrder1",
