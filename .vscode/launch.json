@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rightSideView1",
+            "request": "launch",
+            "mainClass": "rightSideView1",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "levelOrder2",
             "request": "launch",
             "mainClass": "levelOrder2",
