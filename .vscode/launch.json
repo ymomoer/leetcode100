@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "averageOfLevels1",
+            "request": "launch",
+            "mainClass": "averageOfLevels1",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "rightSideView1",
             "request": "launch",
             "mainClass": "rightSideView1",
