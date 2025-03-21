@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TreeNode2",
+            "request": "launch",
+            "mainClass": "TreeNode2",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "largestValues1",
             "request": "launch",
             "mainClass": "largestValues1",
