@@ -1,7 +1,7 @@
 package 二叉树.前序遍历;
 
 public class TreeNode {
-    int val;
+    public int val;
     TreeNode left;
     TreeNode right;
     TreeNode(){}
