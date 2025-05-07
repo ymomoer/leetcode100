@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "restoreIpAddresses",
+            "request": "launch",
+            "mainClass": "restoreIpAddresses",
+            "projectName": "leetcode100_1627bdf9"
+        },
+        {
+            "type": "java",
             "name": "partition1",
             "request": "launch",
             "mainClass": "partition1",
